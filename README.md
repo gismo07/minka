@@ -22,7 +22,7 @@ minka(yourOptimizationTask, 'configuration.json').opt(numberOfRuns)
 ## Usage
 ### Installation
 ```
-!pip install --upgrade PyYAML==4.2b4 optuna sacred python-telegram-bot dnspython loguru wandb pymongo
+!pip install --upgrade minka-johann-haselberger
 ```
 
 ### Preparation
