@@ -1,4 +1,4 @@
-<img src="https://ll-srv-web.livinglab.local:3000/Johann.Haselberger/MINKA/raw/branch/master/assets/Minka.png">
+<img src="https://raw.githubusercontent.com/gismo07/minka/master/assets/Minka.png">
 
 ## About
 Minka is ment to be a middleware between your optimization problem and a modular set of supporting tools to:
@@ -17,7 +17,7 @@ minka(yourOptimizationTask, 'configuration.json').opt(numberOfRuns)
 ```
 
 ## Architecture overview
-<img src="https://ll-srv-web.livinglab.local:3000/Johann.Haselberger/MINKA/raw/branch/master/assets/minka_overview2.png">
+<img src="https://raw.githubusercontent.com/gismo07/minka/master/assets/minka_overview2.png">
 
 ## Usage
 ### Installation
@@ -77,5 +77,5 @@ content of the configuration.json file:
 ```
 
 ## Screenshots
-<img src="https://ll-srv-web.livinglab.local:3000/Johann.Haselberger/MINKA/raw/branch/master/assets/omni.png">
-<img src="https://ll-srv-web.livinglab.local:3000/Johann.Haselberger/MINKA/raw/branch/master/assets/wandb.png">
+<img src="https://raw.githubusercontent.com/gismo07/minka/master/assets/omni.png">
+<img src="https://raw.githubusercontent.com/gismo07/minka/master/assets/wandb.png">
