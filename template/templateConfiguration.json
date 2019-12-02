@@ -1,0 +1,8 @@
+{
+    "comment": "parameter types: fix, categorical, discrete_uniform, int, loguniform, uniform",
+    "parameters": {
+        "batchSize": {"type": "fix","values": 256},
+        "epochs": {"type": "fix","values": 75},
+        "x": {"type": "categorical","values": [11,22,26]}
+    }
+}

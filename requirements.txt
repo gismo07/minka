@@ -1,0 +1,11 @@
+matplotlib
+numpy
+PyYAML==4.2b4
+optuna 
+sacred 
+python-telegram-bot 
+dnspython 
+loguru 
+wandb
+pymongo
+graphql-core==2.1
